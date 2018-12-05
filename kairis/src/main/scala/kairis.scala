@@ -13,5 +13,8 @@ object kairis {
     println("kkbbbbbbbkkkk")
     println("kkbbbbbbbkkkk")
     println("kkbbbbbbbkkkk")
+    println("11111111111111111111111111111")
+    println("11111111111111111111111111111")
+    println("11111111111111111111111111111")
   }
 }
